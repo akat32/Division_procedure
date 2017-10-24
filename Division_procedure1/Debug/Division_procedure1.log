@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Division_procedure1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Division_procedure.cpp
+c:\users\박태욱\desktop\c++ develope\division_procedure\division_procedure1\division_procedure.cpp(8): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Division_procedure1.vcxproj -> C:\Users\박태욱\Desktop\C++ Develope\Division_procedure\Debug\Division_procedure.exe
